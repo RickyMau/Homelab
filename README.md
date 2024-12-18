@@ -1,2 +1,2 @@
 # Homelab
-Home site
+My attempt at sanity. 
